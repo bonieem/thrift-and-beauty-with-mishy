@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-size: cover, cover; /* Ensures both images cover the area */
+    background-position: center, center; /* Centers both images */
+    background-repeat: no-repeat, no-repeat; /* Prevents repeating */
+    color: #157843; /* Adjust text color */
+}
